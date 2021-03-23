@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Magic Eight Ball</string>
+    <string name="question">WHAT SHOULD I DO...MAKE IT EASY!!!</string>
+    <string name="textQeustion">ASK</string>
 </resources>
